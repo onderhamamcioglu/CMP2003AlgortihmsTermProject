@@ -1,9 +1,3 @@
-﻿// 1903028 - Melisa Çevik
-// 1903213 - Önder Hamamcıoğlu
-// 1904391 - Dora Alothman
-
-
-
 // Tested with i5 9300H CPU, 2666 MHZ DDR4 RAM, Kingston M.2 SATA SSD - Acer Nitro 5
 // Test 7: 19/01/2021 - Successful - ~30 Seconds.
 
